@@ -1,0 +1,19 @@
+langchain
+langchain-community
+langchain-core
+huggingface_hub
+transformers
+torch
+sentence-transformers
+openai
+pypdf
+tiktoken
+aiofiles
+fastapi
+uvicorn
+jinja2
+python-multipart
+PyPDF2
+faiss-cpu
+python-dotenv
+-e .
