@@ -2,7 +2,7 @@
 
 ### how to run?
 
-1. Create an Evironment
+1. Create an Environment
 
 ```bash
 conda create -n interview python=3.10 -y
